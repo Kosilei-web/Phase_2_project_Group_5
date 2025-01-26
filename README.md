@@ -6,11 +6,16 @@ Rilsoft aims to capitalize on the rising trend of movie creation by establishing
 ## Business Problem
 Rilsoft wants to venture in the movie industry to compete with other big companies that create original video content. They have the challenge of determining optimal approach to the market. The problem is how to balance financial investment, creative vision and market demand.
 
+## Objectives:
+* To understand high-performing movie genres and provide recommendations based on film genres with the highest ratings
+* To understand revenue projections and ROI based on the various movie genres.
+* To help in analyzing the various roles for creative movie production
+
 ## Data
 The data comes from several reputable sources in the movie industry, including Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers. These datasets provide insights into various aspects of movie performance e.g BOM Detailed information on movie performances, release years, and industry statistics.These datasets collectively address questions about box office trends, movie profitability, audience preferences, and the relationship between budgets and revenue.
 
 ## Methods
-In this project, we use descriptive statistical analysis to explore the movie data. This allows for the identification of key trends and patterns in movie industry for accurate decision making
+In this project, we use descriptive statistical analysis to explore the movie data i.e data cleaning, visualizations and linear regression. This allows for the identification of key trends and patterns in movie industry for accurate decision making
 
 ## Results
 The genre that consistently achieved the highest ratings and high ROI was Drama, which cut across both highest rating and high return on investment
