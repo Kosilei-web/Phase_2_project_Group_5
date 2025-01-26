@@ -24,9 +24,9 @@ The genre that consistently achieved the highest ratings and high ROI was Drama,
 
 Adventure, Drama and Sport gave the highest return on investment. Sport should be considered due to its low budget, Drama cuts across audiences as well as return, while Adventure will deliver the highest return but also with a high budget. 
 
-![productiongenre](./images/productiongenre.png)
-
 ![roi](./images/roi.png)
+
+![productiongenre](./images/productiongenre.png)
 
 Musicals were also noted to have the lowest budget with the highest revenue
 
